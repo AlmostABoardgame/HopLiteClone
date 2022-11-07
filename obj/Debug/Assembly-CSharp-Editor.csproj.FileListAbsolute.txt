@@ -1,0 +1,2 @@
+/Users/marcmarselje/Desktop/unity projects/HopLite Clone/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+/Users/marcmarselje/Desktop/unity projects/HopLite Clone/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
